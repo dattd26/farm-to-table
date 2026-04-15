@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FarmToTable.Api/FarmToTable.Api.csproj" />
+    <Project Path="src/FarmToTable.Application/FarmToTable.Application.csproj" />
+    <Project Path="src/FarmToTable.Domain/FarmToTable.Domain.csproj" />
+    <Project Path="src/FarmToTable.Infrastructure/FarmToTable.Infrastructure.csproj" />
+  </Folder>
+</Solution>
